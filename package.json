@@ -6,7 +6,7 @@
   "dependencies": {
     "bluebird": "^3.7.1",
     "cheerio": "1.0.0-rc.2",
-    "microdata-node": "0.2.1",
+    "microdata-node": "https://github.com/Jaydenaus/microdata-node.git",
     "preq": "^0.5.12"
   },
   "devDependencies": {
